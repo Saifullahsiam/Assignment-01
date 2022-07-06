@@ -1,3 +1,137 @@
+body {}
+
+.main {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    background-size: 100%;
+
+}
+
+.upper {
+    color: rgb(39, 194, 142);
+    width: 50%;
+    height: 50%;
+    text-align: center;
+
+}
+
 h1 {
-    color: blueviolet
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+
+}
+
+#donate {
+    background-color: chocolate;
+    color: white;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+
+.text {
+    text-align: center;
+}
+
+#red {
+    background-color: rgb(228, 216, 201);
+    height: 300px;
+    width: 300px;
+}
+
+#child {
+    background-color: rgb(145, 158, 87);
+    background-size: 500px 500px;
+    height: 300px;
+    width: 300px;
+}
+
+#green {
+    background-color: rgb(133, 163, 142);
+    background-size: 500px 500px;
+    height: 300px;
+    width: 300px;
+}
+
+.fleible-container {
+    margin-bottom: 150px;
+
+}
+
+footer {
+    display: block;
+    text-align: center;
+    padding: 51px;
+    background-color: rgb(2, 1, 0);
+    color: white;
+    margin: 50px 0px 0px 0px;
+}
+
+#big {
+    font-size: 50px;
+}
+
+.contribute {
+    display: block;
+}
+
+.other {
+    display: flex;
+    padding: 150px;
+}
+
+#half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+#mail-input {
+    height: 200px;
+    width: 600px;
+    background-color: beige;
+    padding: 10px;
+    background-position: center;
+    margin-left: 300px;
+}
+
+.updates {
+    text-align: center;
+}
+
+#food {
+    background-color: rgb(117, 67, 1);
+    color: aliceblue;
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    margin: 50px 0px 0px 0px;
+}
+
+#shelter {
+    background-color: rgb(138, 102, 56);
+    color: aliceblue;
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    margin: 50px 0px 0px 0px;
+}
+
+#education {
+    background-color: rgb(88, 54, 9);
+    color: aliceblue;
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    margin: 50px 0px 0px 0px;
+}
+
+
+.all-added {
+    display: flex;
+    padding: 10px;
+    margin: 10px 10px 10px 160px;
+    border: 5px;
+    margin-bottom: 10px;
 }
