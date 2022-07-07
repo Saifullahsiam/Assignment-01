@@ -6,7 +6,7 @@
 .upper {
     text-align: center;
     padding: 100px 0px 0px 0px;
-    color: wheat;
+    color: rgba(7, 233, 222, 0.918);
 }
 
 #today h1 {
@@ -34,7 +34,7 @@
 .three {
     display: flex;
     padding: 15px;
-    margin: 20px 30px 30px 120px;
+    margin: 20px 30px 30px 280px;
     font-size: 50px;
 
 }
@@ -173,7 +173,7 @@ footer {
     background-color: beige;
     padding: 10px;
     background-position: center;
-    margin-left: 300px;
+    margin-left: 450px;
 }
 
 .updates {
