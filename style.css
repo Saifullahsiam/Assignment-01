@@ -1,33 +1,113 @@
-body {}
-
 .main {
     background-image: url(images/donation13.jpg);
-    background-repeat: no-repeat;
-    display: flex;
-    background-size: 100%;
-
+    height: 600px;
 }
 
 .upper {
-    color: rgb(39, 194, 142);
-    width: 50%;
-    height: 50%;
     text-align: center;
+    padding: 100px 0px 0px 0px;
+    color: wheat;
+}
+
+#today h1 {
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#center {
+    font-size: 50px;
+}
+
+#text-one {
+    font-size: 25px;
+    text-align: center;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 
-h1 {
-    font-family: 'Poppins', sans-serif;
+.two {
+    text-align: center;
+}
+
+
+.three {
+    display: flex;
+    padding: 15px;
+    margin: 20px 30px 30px 120px;
     font-size: 50px;
 
+}
+
+.hundred {
+    background-color: beige;
+    height: 140px;
+    width: 140px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 50px 50px 0px 0px;
+
+}
+
+#twoo-hundred {
+    background-color: beige;
+    height: 140px;
+    width: 140px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 50px 50px 0px 0px;
+}
+
+
+
+
+#five-hundred {
+    background-color: beige;
+    height: 140px;
+    width: 140px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 50px 50px 0px 0px;
+}
+
+#thawsand {
+    background-color: beige;
+    height: 140px;
+    width: 140px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 50px 50px 0px 0px;
+}
+
+#five-hajar {
+    background-color: beige;
+    height: 140px;
+    width: 140px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 50px 50px 0px 0px;
 }
 
 #donate {
     background-color: chocolate;
     color: white;
     text-decoration: none;
-    padding: 10px 40px;
+    padding: 20px 50px;
+    height: 50px;
     border-radius: 5px;
+    text-align: center;
+
+
+}
+
+#donate-now {
+    background-color: chocolate;
+    color: white;
+    text-decoration: none;
+    padding: 20px 50px;
+    height: 50px;
+    border-radius: 5px;
+    text-align: center;
 
 }
 
@@ -130,8 +210,9 @@ footer {
 
 .all-added {
     display: flex;
-    padding: 10px;
-    margin: 10px 10px 10px 160px;
-    border: 5px;
-    margin-bottom: 10px;
+    padding: 20px;
+    margin: 5px 30px 30px 170px;
+    font-size: 20px;
+    display: inline-flexbox;
+
 }
